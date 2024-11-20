@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CustomerInfo
+comment1.params=customerId\ customerName\ vehiclePlateNumber
+comment1.target=CustomerInfo(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getCustomerId()
+comment3.params=
+comment3.target=java.lang.String\ getCustomerName()
+comment4.params=
+comment4.target=java.lang.String\ getVehiclePlateNumber()
+comment5.params=
+comment5.target=java.util.LinkedList\ getServices()
+comment6.params=service
+comment6.target=void\ addService(ServiceInfo)
+comment7.params=
+comment7.target=double\ calculateTotalCost()
+comment8.params=
+comment8.target=int\ getCountOfServices()
+numComments=9

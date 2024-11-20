@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CompletedTransactionWin
+comment1.params=
+comment1.target=CompletedTransactionWin()
+comment2.params=
+comment2.target=java.lang.Object[][]\ getCompletedTransactionData()
+comment3.params=customer
+comment3.target=java.lang.String\ getServiceDetails(CustomerInfo)
+comment4.params=customer
+comment4.target=double\ calculateTotalCost(CustomerInfo)
+numComments=5

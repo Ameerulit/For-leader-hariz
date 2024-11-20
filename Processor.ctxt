@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Processor
+comment1.params=
+comment1.target=Processor()
+comment2.params=
+comment2.target=java.util.LinkedList\ getCustomerList()
+comment3.params=
+comment3.target=java.util.Stack\ getCompletedStack()
+comment4.params=fileName
+comment4.target=void\ loadCustomerDataFromFile(java.lang.String)
+comment5.params=data
+comment5.target=void\ processCustomerData(java.lang.String)
+comment6.params=servicesData\ customer
+comment6.target=void\ processServicesData(java.lang.String,\ CustomerInfo)
+comment7.params=customer
+comment7.target=void\ markCustomerAsComplete(CustomerInfo)
+comment8.params=
+comment8.target=int\ getCompletedTransactionCount()
+comment9.params=
+comment9.target=double\ calculateTotalSales()
+numComments=10

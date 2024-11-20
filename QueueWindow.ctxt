@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=QueueWindow
+comment1.params=title\ queue\ processor
+comment1.target=QueueWindow(java.lang.String,\ java.util.Queue,\ Processor)
+comment2.params=
+comment2.target=void\ initializeComponents()
+comment3.params=
+comment3.target=javax.swing.JPanel\ createActionPanel()
+comment4.params=
+comment4.target=void\ updateTable()
+comment5.params=
+comment5.target=void\ processReceipt()
+comment6.params=customer
+comment6.target=java.lang.String\ generateReceiptData(CustomerInfo)
+comment7.params=
+comment7.target=void\ cancelOrder()
+numComments=8
